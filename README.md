@@ -1,4 +1,4 @@
-# agent-playbook
+# provider-agnostic-agent-chats
 
 Your past AI coding chats aren't locked into one provider. These guides let
 any coding agent (Claude Code, Codex, or another) find and read your old
